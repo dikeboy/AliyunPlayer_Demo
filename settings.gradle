@@ -1,0 +1,5 @@
+include ':Aliyunplayer:AlivcPlayerTools'
+include ':AliyunPlayerBase'
+include ':AliyunVideoCommon'
+include ':app'
+rootProject.name = "TestTex"
